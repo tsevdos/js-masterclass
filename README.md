@@ -19,4 +19,5 @@ After installing node please verify that you have setup everything correctly by 
 
 ## Table of Contents
 
-WIP
+1.  [JavaScript setup](https://github.com/tsevdos/js-masterclass/tree/main/01-setup)
+2.  [JavaScript history](https://github.com/tsevdos/js-masterclass/tree/main/02-history)

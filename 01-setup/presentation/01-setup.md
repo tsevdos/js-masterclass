@@ -3,7 +3,7 @@ marp: true
 theme: default
 style: |
   section {
-    font-size: 300%;
+    font-size: 220%;
   }
 ---
 
