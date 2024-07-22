@@ -19,20 +19,10 @@
 ## 2. Create a Github account
 
 - [GitHub account](https://github.com/) - Github is a community site that allows easy creation and collaboration on git projects
-
-## 3. Create a simple HTML page with the below requirements:
-
-- it **must** have some content
-- it **must** be "sementickally" correct (use correct HTML tags)
-- apply some basic CSS
-- run a script the prints "Hello World" in the console
-
-## 4. Upload the above HTML page on GitHub
-
-- Make sure you have correctly setup git and GitHub
+- Make sure you have correctly setup git and GitHub:
   - [Set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
   - [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=windows)
 
-## 5. Clone lockally the below repository
+## 3. Clone lockally the below repository
 
-- [js-masterclass](https://github.com/tsevdos/js-masterclass)
+- [JS masterclass](https://github.com/tsevdos/js-masterclass)
