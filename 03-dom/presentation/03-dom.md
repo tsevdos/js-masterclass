@@ -49,6 +49,7 @@ Feel free to interrupt me for:
 
 # Communication protocols
 
+- **Hypertext Transfer Protocol**
 - **HTTP/HTTPS**: protocols used for transferring web pages. HTTPS is the secure version
 - **DNS (Domain Name System)**: translates human-readable domain names (like www.example.com) into IP addresses
 

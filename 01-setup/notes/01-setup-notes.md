@@ -1,8 +1,8 @@
 # Reading / Resources
 
-- [**Introduction to HTML**](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) from [MDN](https://developer.mozilla.org/en-US/)
-- [**Learn to style HTML using CSS**](https://developer.mozilla.org/en-US/docs/Learn/CSS) from [MDN](https://developer.mozilla.org/en-US/)
-- [**JavaScript - Dynamic client-side scripting**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) from [MDN](https://developer.mozilla.org/en-US/)
+- [**Introduction to HTML**](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) (MDN)
+- [**Learn to style HTML using CSS**](https://developer.mozilla.org/en-US/docs/Learn/CSS) (MDN)
+- [**JavaScript - Dynamic client-side scripting**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) (MDN)
 - [HTML Tutorial](https://www.geeksforgeeks.org/html-tutorial/)
 - [CSS Tutorial](https://www.geeksforgeeks.org/css-tutorial/)
 
