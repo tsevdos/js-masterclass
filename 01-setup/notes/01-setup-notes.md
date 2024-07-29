@@ -5,6 +5,7 @@
 - [**JavaScript - Dynamic client-side scripting**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) (MDN)
 - [HTML Tutorial](https://www.geeksforgeeks.org/html-tutorial/)
 - [CSS Tutorial](https://www.geeksforgeeks.org/css-tutorial/)
+- [**Git Made Easy**](https://www.youtube.com/watch?v=-iWaarLI7zI) (video)
 
 # Homework
 
