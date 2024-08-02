@@ -41,11 +41,11 @@ Feel free to interrupt me for:
 
 # Variable names
 
-- names can contain letters, digits, underscores, and dollar signs
-- names must begin with a letter
-- names can also begin with **$** and **\_**
-- names are case-sensitive (x and X are different variables)
-- reserved words (JavaScript keywords) cannot be used as names
+- names can contain **letters**, **digits**, **underscores (\_)**, and **dollar signs ($)**
+- names must **begin with a letter**
+- names can also **begin with \_ and $**
+- names are **case-sensitive** (**"x"** and **"X"** are different variables)
+- [**reserved words**](https://www.w3schools.com/js/js_reserved.asp) (JavaScript keywords) cannot be used as names
 
 ---
 
@@ -54,13 +54,15 @@ Feel free to interrupt me for:
 - **global scope**: the default scope for all code running in script mode
 - **module scope**: the scope for code running in module mode
 - **function scope**: the scope created with a function
+- **block scope**: the scope created with openining and closing curly braces ({})
 
 ---
 
-# Variable scope
+# Variables
 
 - **var**: function scope
 - **let** or **const**: block scope
+- **const**: cannot be updated or re-declared
 
 ---
 

@@ -1,60 +1,68 @@
+// 1.
 // Primitive types
-// String
-const name = "John";
-// Number
-const age = 42;
-// Boolean
-const isActive = true;
-// Null
-const hasFerrari = null;
-// Undefined
-let notDefined;
-// Symbols (ES6)
-const symbol = Symbol("Symbol");
+// // String
+// const name = "John";
+// // Number
+// const age = 42;
+// // Boolean
+// const isActive = true;
+// // Null
+// const hasFerrari = null;
+// // Undefined
+// let notDefined;
+// // Symbols (ES6)
+// const symbol = Symbol("MySymbol");
 
-console.log(name);
-console.log(typeof name);
+// console.log(name);
+// console.log(typeof name);
+////////////////////
 
-console.log(symbol);
-console.log(typeof symbol);
-
+// 2.
 // Reference types
-// Arrays
-const hobbies = ["cinema", "football", "PS%"];
-// Object Literals
-const address = {
-  street: "Ermou 88",
-  city: "Athens",
-  postcode: 12345,
-};
-// Functions
-function helloWord() {
-  return "hello world!";
-}
-// Dates
-const date = new Date(1999, 2, 25);
+// // Arrays
+// const hobbies = ["cinema", "football", "PS5"];
+// // Object Literals
+// const address = {
+//   street: "Ermou 88",
+//   city: "Athens",
+//   postcode: 12345,
+// };
+// // Dates
+// const date = new Date(1999, 2, 25);
+// // Regex
+// const regex = /www./;
+// // Functions
+// function helloWord() {
+//   return "hello world!";
+// }
 
-console.log(date);
-console.log(typeof date);
+// console.log(hobbies);
+// console.log(typeof hobbies);
+////////////////////
 
+// 3.
 // Immutability / Mutability
-//  Primitive values
-const myName = "John";
-const otherName = "John";
+// Primitive values
+// const myName = "John";
+// const otherName = "John";
 
-console.log(myName === otherName); // true
+// console.log(myName === otherName);
 
 // Reference values
-const john = {
-  name: "John",
-  surname: "Tsevdos",
-};
+// const myHobbies = ["cinema", "football", "PS5"];
+// const hobbies = ["cinema", "football", "PS5"];
 
-const tsevdos = {
-  name: "John",
-  surname: "Tsevdos",
-};
+// console.log(myHobbies === hobbies);
 
-// tsevdos.surname = "Doe";
+// const john = {
+//   name: "John",
+//   surname: "Tsevdos",
+// };
 
-console.log(john === tsevdos); // false
+// const tsevdos = {
+//   name: "John",
+//   surname: "Tsevdos",
+// };
+
+// console.log(john === tsevdos);
+////////////////////

@@ -1,5 +1,29 @@
 # JS masterclass
 
+## Course prerequisites
+
+- Basic knowledge of HTML
+- Basic knowledge of CSS
+- Basic knowledge of git
+
+If you don't know any of the above topics don't give up! The below resources will help you catch up really quick, you'll just need more effort in the begining.
+
+### HTML resources
+
+- [**Structuring the web with HTML**](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+
+### CSS resources
+
+- [**Learn to style HTML using CSS**](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
+### Git resources
+
+- [**Learn Git**](https://www.boot.dev/courses/learn-git)
+
+### JavaScript resources
+
+- [**JavaScript - Dynamic client-side scripting**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
 ## System Requirements
 
 Please make sure that you have successfully installed the below software on your development environment, before interacting with this repo.
