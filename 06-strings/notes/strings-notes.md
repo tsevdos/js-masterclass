@@ -6,7 +6,7 @@
 
 ## 1. Create a script that concatenates your first and last name (see example code) into the string "Hello, my full name is John Tsevdos!".
 
-```
+```js
 const firstName = "John";
 const lastName = "Tsevdos";
 
@@ -18,7 +18,7 @@ const lastName = "Tsevdos";
 
 ## 2. Given the string below:
 
-```
+```js
 const dna = "  TCG-TAC-CAG-ACT-gaC-TAC-TAa-CcA-GTC-cAt-AGA-GCT    ";
 ```
 

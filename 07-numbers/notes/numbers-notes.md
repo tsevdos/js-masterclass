@@ -7,7 +7,7 @@
 
 ## 1. Given the below variables, use all the number operators you know.
 
-```
+```js
 const integer = 10;
 const float = 5.3;
 
@@ -16,9 +16,9 @@ const float = 5.3;
 
 ## 1. Fix the code below in order to make the correct calculation.
 
-```
+```js
 const strNum = "10";
 const number = 7;
 
-console.log(strNum + number)
+console.log(strNum + number);
 ```
