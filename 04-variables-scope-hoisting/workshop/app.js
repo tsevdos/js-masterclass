@@ -101,11 +101,24 @@
 
 // Hoisting
 // 13.
+// console.log(varVariable); // Output: undefined
+// // console.log(letVariable); // Error: Cannot access 'letVariable' before initialization
+// // console.log(constVariable); // Error: Cannot access 'constVariable' before initialization
+
+// var varVariable = "I am var";
+// let letVariable = "I am let";
+// const constVariable = "I am const";
+
+// console.log(varVariable); // Output: I am var
+// console.log(letVariable); // Output: I am let
+// console.log(constVariable); // Output: I am const
+
+// 14.
 // var name;
 // console.log(name);
 // name = "John";
 
-// 14.
+// 15.
 // let name;
 // console.log(name);
 // name = "John";

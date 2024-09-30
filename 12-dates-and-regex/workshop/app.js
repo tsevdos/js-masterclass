@@ -26,6 +26,6 @@ const regexConstructor = new RegExp("hello");
 // console.log(regexConstructor.test(str));
 
 // alphanumeric
-// console.log(/^[a-zA-Z0-9]*$/.test("tsevdos"));
+// console.log(/^[a-zA-Z0-9]*$/.test("tsevdos123"));
 // email
 // console.log(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test("tsevdos@gmail.com"));

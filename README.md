@@ -22,7 +22,9 @@ If you don't know any of the above topics don't give up! The below resources wil
 
 ### JavaScript resources
 
+- [**Deep Dive Into Modern Web Development**](https://fullstackopen.com/en/)
 - [**JavaScript - Dynamic client-side scripting**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [**Introduction to Professional Web Development in JavaScript**](https://education.launchcode.org/js-independent-track/index-full.html)
 
 ## System Requirements
 

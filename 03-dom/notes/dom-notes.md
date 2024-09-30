@@ -3,6 +3,7 @@
 - [**How the web works**](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) (MDN)
 - [**How browsers work**](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work) (MDN)
 - [**Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015**](https://www.youtube.com/watch?v=SmE4OwHztCc) (video)
+- [**What is DNS? (and how it makes the Internet work)**](https://www.youtube.com/watch?v=NiQTs9DbtW4) (video)
 - [How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/)
 - [How your browser loads, parses, and renders a webpage](https://www.fullstackfoundations.com/blog/how-browser-loads-parses-renders-webpage)
 
