@@ -12,7 +12,21 @@
 // }
 ////////////////////
 
-// 3. Comparison operators
+// 3. if...else if...else statement
+// const age = 18;
+
+// if (age === 15) {
+//   console.log("fifteen");
+// } else if (age === 18) {
+//   console.log("eighteen");
+// } else if (age === 21) {
+//   console.log("twenty one");
+// } else {
+//   console.log("other");
+// }
+////////////////////
+
+// 4. Comparison operators
 // Equality / Strict equality
 // console.log(1 == 1);
 // console.log(1 === 1);
@@ -71,7 +85,7 @@
 // }
 ////////////////////
 
-// 4. Logical operators
+// 5. Logical operators
 // Logical AND (&&)
 // console.log(true && false);
 // console.log(true && true);
@@ -115,7 +129,7 @@
 // }
 ////////////////////
 
-// 5. Switch statement
+// 6. Switch statement
 // const dayNum = 3;
 
 // switch (dayNum) {
@@ -144,7 +158,7 @@
 //     console.log("Invalid number. Please enter a number between 1 and 7.");
 // }
 
-// 6. Ternary (conditional) operator
+// 7. Ternary (conditional) operator
 // const isBirthday = true;
 // const greeting = isBirthday ? "Happy birthday!" : "Good day.";
 // console.log(greeting);

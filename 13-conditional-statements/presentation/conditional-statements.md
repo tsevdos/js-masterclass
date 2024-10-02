@@ -61,6 +61,26 @@ if (age >= 18) {
 
 ---
 
+# if...else if...else statement
+
+<br />
+
+```js
+const age = 18;
+
+if (age === 15) {
+  console.log("fifteen");
+} else if (age === 18) {
+  console.log("eighteen");
+} else if (age === 21) {
+  console.log("twenty one");
+} else {
+  console.log("other");
+}
+```
+
+---
+
 # Switch statement
 
 ```js
