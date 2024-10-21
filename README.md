@@ -11,6 +11,7 @@ If you don't know any of the above topics don't give up! The below resources wil
 ### HTML resources
 
 - [**Structuring the web with HTML**](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [**HTML is for people**](https://htmlforpeople.com/)
 
 ### CSS resources
 
